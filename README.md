@@ -1,8 +1,6 @@
 # Pokémon Showdown Backup Script
 
-This repository contains a script that can backup your Showdown team with a button click. (Description thanks to GPT 4)
-
-This repository contains a [Tampermonkey](https://www.tampermonkey.net/) script that can backup your Showdown team with a button click on Google Chrome, Firefox, Microsoft Edge, and other browsers that support Tampermonkey.
+This repository contains a [Tampermonkey](https://www.tampermonkey.net/) script that can backup your Showdown team with a button click on Google Chrome, Firefox, Microsoft Edge, and other browsers that support Tampermonkey. (Thanks GPT 4 for the README)
 
 ## What is Tampermonkey?
 
