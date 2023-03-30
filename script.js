@@ -11,7 +11,7 @@
 // @include      https://*.psim.us/
 // @include      http://*.psim.us/*
 // @include      https://*.psim.us/*
-// @version      0.0.1
+// @version      0.0.2
 // @grant        none
 // @run-at       document-end
 // ==/UserScript==
@@ -51,7 +51,8 @@
             id: 'backup',
             text: 'Backup',
             click: clickEvent,
-            class: 'button big',
+            class: 'button small',
+            style: 'margin-left: 4px;',
         });
         $(identifier + ' > button:nth-child(2)').after(backupButton);
     }
